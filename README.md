@@ -77,17 +77,7 @@ My personal website showcasing my background, skills, and projects.
 - 🗄️ SQL & database design
 - 📊 Machine Learning fundamentals
 - 🔧 Building REST APIs with Flask
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kwstassrp6991&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwstassrp6991&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
-
+  
 ---
 
 ## 🎓 Education & Background
