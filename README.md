@@ -76,7 +76,7 @@ My personal website showcasing my background, skills, and projects.
 - 🐍 Advanced Python (algorithms, data structures)
 - 🗄️ SQL & database design
 - 📊 Machine Learning fundamentals
-- 🔧 Building REST APIs with FastAPI
+- 🔧 Building REST APIs with Flask
 
 ---
 
